@@ -1,1 +1,1 @@
-# asg-elb
+This repo is used to create asg with elb
