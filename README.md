@@ -25,10 +25,9 @@ module "wordpress" {
   ssh_cidr_blocks  = [
 
     "127.0.0.1/32",
-
     "0.0.0.0/0"
-
   ]
+  
 }
 
 Please run
